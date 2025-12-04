@@ -94,4 +94,3 @@ cd autism-detection-using-YOLOv8-model
 
 ## Install all requirements
 pip install -r requirements.txt
-# image-autism-detection-YOLOV8
